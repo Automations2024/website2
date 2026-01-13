@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- ========== Meta Tags ========== -->
+    <title>Arcturus Consulting Services - Elevate Your Oracle Cloud Experience with Comprehensive Testing as a Service (TaaS)</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Arcturus Consulting Services, Arcturus Consulting Services Inc., Oracle Cloud Consulting,
+        Oracle Cloud Services,
+        Oracle Cloud Migration,
+        Oracle Cloud Implementation,
+        Oracle Cloud Solutions,
+        Oracle Cloud Experts
+        Cloud Integration,
+        Cloud Strategy,
+        Oracle Cloud Support,
+    Oracle ERP Cloud, Oracle Finance Cloud, Oracle SCM Cloud, Oracle HCM Cloud, Oracle Cloud Trainings, Oracle Finance Cloud Training, Oracle SCM Cloud Training, Oracle HCM Cloud Training, Testing">
+    <meta name="description" content="Oracle Cloud experience with Testing as a Service (TaaS). Ensure quality, performance, and security for ERP, SCM, and HCM Cloud applications.">
+    <meta name="google-site-verification" content="google-site-verification: googlefac803b54bb5c8d4.html" />
+
+
+    <!-- ========== Favicon Icon ========== -->
+    <link rel="shortcut icon" href="assets/img/fav.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+    <!-- ========== Start Stylesheet ========== -->
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/themify-icons.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/elegant-icons.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/flaticon-set.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/magnific-popup.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/owl.theme.default.min.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/animate.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/validnavs.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/helper.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/shop.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/style.css" />
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/custom.css">
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <link rel="stylesheet" href="https://www.arctrs.com/assets/css/responsive.css" />
+    <!-- ========== End Stylesheet ========== -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+</head>
+<body>
+    <!-- header Menu -->
+    
+<style>
+    nav.navbar ul.nav>li>a {
+    padding: 25px 10px;
+}
+ul.nav>li>a, nav.navbar.validnavs.no-background.white ul.nav>li>a {
+    color: #1e417c;
+}
+</style>
+    <body>
+
+    <!-- Preloader Start -->
+        <div class="se-pre-con"></div>
+        <!-- Preloader Ends -->
+
+        <!-- Header 
+        ============================================= -->
+        <header>
+            <!-- Start Navigation -->
+            <nav class="navbar mobile-sidenav attr-border navbar-sticky navbar-default validnavs navbar-fixed white bg-white p-0">
+                <div class="logo_menu_Div container d-flex justify-content-between align-items-center">            
+                    <!-- Start Header Navigation -->
+                    <div class="navbar-header" style="margin-left: -30px;">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+        <i class="fa fa-bars"></i>
+    </button>
+    <a class="navbar-brand" href="/">
+        <img src="https://www.arctrs.com/assets/img/logo1.png" class="logo logo-display" alt="Logo">
+        <img src="https://www.arctrs.com/assets/img/logo1.png" class="logo logo-scrolled" alt="Logo">
+    </a>
+</div>
+
+                    <!-- End Header Navigation -->
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="navbar-menu">
+    <a href="https://www.arctrs.com/"><img src="https://www.arctrs.com/assets/img/logo1.png" alt="Logo"></a>
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+        <i class="fa fa-times"></i>
+    </button>
+    
+    <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+        <li class="dropdown">
+            <a href="https://www.arctrs.com/">Home</a>
+        </li>
+        <li><a href="https://www.arctrs.com/about">About Us</a></li>
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle active" data-toggle="dropdown">Services</a>
+            <ul class="dropdown-menu">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Oracle Consulting</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.arctrs.com/oracle">Oracle Cloud & EBS Consulting Solutions</a></li>
+                        <li><a href="https://www.arctrs.com/applicationservice">Application Managed Services</a></li>
+                        <li><a href="https://www.arctrs.com/demoservice">Demo as a Service</a></li>
+                        <li><a href="https://www.arctrs.com/testingservice">Testing as a Service</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.arctrs.com/recruitmentservice">Recruitment and Staff Augmentation</a></li>
+            </ul>
+        </li>
+        <li><a href="https://www.arctrs.com/trainingservice">Training as a Service</a></li>
+        <li><a href="https://www.arctrs.com/blog">Blogs</a></li>
+        <li><a href="https://www.arctrs.com/career">Careers</a></li>
+        <li><a href="https://www.arctrs.com/contact">Contact Us</a></li>
+    </ul>
+</div>
+<!-- /.navbar-collapse -->
+
+                    <!-- <div class="attr-right">
+                        <div class="attr-nav">
+                            <ul>
+                                <li class="contact">
+                                    <div class="call">
+                                        <div class="icon">
+                                            <i class="custom_blue fas fa-comments-alt-dollar"></i>
+                                        </div>
+                                        <div class="info">
+                                            <p class="custom_blue">Have any Questions?</p>
+                                            <h5><a href="mailto:info@arcturusconsultingservices.com" class="custom_blue" style="font-size: 15px;">info@arcturusconsultingservices.com</a></h5>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div> -->
+
+                    <!-- Main Nav -->
+                </div>   
+                <!-- Overlay screen for menu -->
+                <div class="overlay-screen"></div>
+                <!-- End Overlay screen for menu -->
+            </nav>
+            <!-- End Navigation -->
+        </header>
+        <!-- End Header -->    <!-- Mian Body -->
+    
+
+    <!-- Start Breadcrumb 
+    ============================================= -->
+    <div class="breadcrumb-area shadow dark bg-cover text-center text-light" style="background-image: url(assets/img/acs/aboutbg.jpeg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <h1>Our Services</h1>
+                    <ul class="breadcrumb">
+                        <!-- <li><a href="#"><i class="fas fa-home"></i> Home</a></li> -->
+                        <li>Testing as a Service</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Breadcrumb -->
+
+    <!-- Star Services Details Area
+    ============================================= -->
+    <div class="services-details-area default-padding">
+        <div class="container">
+            <div class="services-details-items">
+                <div class="row">
+                    <div class="col-lg-8 services-single-content">
+                        <div class="thumb wow fadeInUp"  data-wow-delay="500ms">
+                            <img src="assets/img/acs/testingbg.jpg" alt="Thumb">
+                        </div>
+                        <div class="">
+                            <h2>Testing as a Service</h2>
+                            <p>
+                            Empowering Oracle ERP, SCM, and HCM Cloud Experiences with Comprehensive Testing as a Service (TaaS).
+                            <br> <br>
+                            Welcome to Arcturus Consulting Services, your steadfast partner in Oracle Cloud innovation. As businesses embrace the transformative power of Oracle ERP, SCM, and HCM Cloud solutions, ensuring their seamless functionality, performance, and security becomes paramount. At Arcturus, we proudly present Testing as a Service (TaaS), a comprehensive approach that not only guarantees the quality of your Oracle Cloud applications but also includes specialized quarterly testing for Oracle upgrades, as well as testing of custom reports, integrations, and roles. <br>
+                            </p>
+                            <p>
+                            <strong>What is Comprehensive Testing as a Service (TaaS) for Oracle ERP, SCM, and HCM Cloud?</strong> <br> <br> Comprehensive Testing as a Service is a foundational element of our Oracle Cloud Consulting business at Arcturus, designed specifically for Oracle ERP, SCM, and HCM Cloud solutions. It encompasses a complete testing lifecycle, from initial design to post-implementation support, providing a robust framework to validate and optimize your Oracle Cloud applications. Our TaaS offering goes beyond standard testing by incorporating specialized testing for quarterly Oracle upgrades, custom reports, integrations, and roles.
+                           
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 services-sidebar">
+                        <!-- Single Widget -->
+                        <div class="single-widget services-list">
+                            <h4 class="widget-title">Services List</h4>
+                            <div class="content">
+                                <ul>
+                                    <li><a href="oracle">Oracle Cloud & EBS Consulting Solutions</a></li>
+                                    <li><a href="applicationservice">Application Managed Services</a></li>
+                                    <li><a href="demoservice">Demo as a Service</a></li>
+                                    <li class="current-item"><a href="#">Testing as a Service</a></li>
+                                    <li><a href="recruitmentservice">Recruitment and Staff Augmentation</a></li>
+                                    <li><a href="trainingservice">Training as a Service</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="services-more wow fadeInUp"  data-wow-delay="500ms">
+                            <!-- <h2>Key Features of Testing as a Service</h2> -->
+                            <div class="row">
+                                <div class="col-lg-4 col-md-4 mt-4 mt-md-0">
+                                    <div class="item">
+                                        <img src="assets/img/acs/testing.png" height="50" alt="">
+                                        <h4><a href="#">Holistic Test Coverage</a></h4>
+                                        <p>Our TaaS solution spans various testing types, including functional testing, performance testing, security testing, and specialized testing for Oracle ERP, SCM, and HCM Cloud solutions, custom reports, integrations, and roles. This ensures that every facet of your Oracle Cloud applications is thoroughly evaluated.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 mt-4 mt-md-0">
+                                    <div class="item">
+                                        <img src="assets/img/acs/security.png" height="50" alt="">
+                                        <h4><a href="#">Security Assurance</a></h4>
+                                        <p>Safeguard your critical data and applications with our comprehensive security testing services. Identify vulnerabilities, ensure compliance, and fortify your Oracle Cloud infrastructure against potential threats.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 mt-4 mt-md-0">
+                                    <div class="item">
+                                        <img src="assets/img/acs/analytics_2679436.png" height="50" alt="">
+                                        <h4><a href="#">Automated Testing Excellence</a></h4>
+                                        <p>Harness the efficiency of automated testing to streamline processes. Our experts implement cutting-edge tools and methodologies, automating repetitive tasks to facilitate faster releases while maintaining the highest standards of quality.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 mt-4 mt-md-0">
+                                    <div class="item">
+                                        <img src="assets/img/acs/algorithm_7021282.png" height="50" alt="">
+                                        <h4><a href="#">Performance Optimization for Oracle Cloud Applications</a></h4>
+                                        <p>Optimize the performance of your Oracle ERP, SCM, and HCM Cloud applications through our specialized performance testing services. Identify bottlenecks, analyze system behavior under different conditions, and ensure optimal user experiences.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 mt-4 mt-md-0">
+                                    <div class="item">
+                                        <img src="assets/img/acs/digital-services.png" height="50" alt="">
+                                        <h4><a href="#">Scalable Testing for Oracle Cloud Solutions</a></h4>
+                                        <p>Whether you are implementing new features or scaling your Oracle ERP, SCM, and HCM Cloud infrastructure, our TaaS scales seamlessly with your business. We adapt testing strategies to accommodate the evolving needs of your Oracle Cloud environment.
+                                        </p>
+                                    </div>
+                                </div>
+                               
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="services-more wow fadeInUp"  data-wow-delay="500ms">
+                            <h2>Our Approach</h2>
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="item  wow fadeInUp"  data-wow-delay="500ms">
+                                        <div class="flip-card" style="height: 300px; width: 100%;">
+                                            <div class="flip-card-inner">
+                                                <div class="flip-card-front">
+                                                    <img src="assets/img/acs/testing2.png" alt="">
+                                                    <h4>Specialized Testing for Custom Reports, Integrations, and Roles</h4>
+                                                </div>
+                                                <div class="flip-card-back">
+                                                    <p>Arcturus goes beyond standard testing by offering specialized testing for custom reports, integrations, and roles. Ensure that your custom configurations align seamlessly with your business processes, integrations operate flawlessly, and roles are appropriately defined and secure.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6">
+                                <div class="item  wow fadeInUp"  data-wow-delay="500ms">
+                                        <div class="flip-card" style="height: 300px; width: 100%;">
+                                            <div class="flip-card-inner">
+                                                <div class="flip-card-front">
+                                                    <img src="assets/img/acs/algorithm_7021282.png" alt="">
+                                                    <h4>Quarterly Oracle Upgrade Testing</h4>
+                                                </div>
+                                                <div class="flip-card-back">
+                                                    <p>Stay ahead of the curve with Arcturus as we integrate specialized testing for quarterly Oracle upgrades into our TaaS offering. Our experts ensure that your Oracle ERP, SCM, and HCM Cloud solutions seamlessly transition through each upgrade, validating compatibility and identifying any potential issues, thus minimizing disruption to your operations.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                <div class="row" style="margin-top:50px">
+                    <div class="col-md-12 d-flex align-items-center wow fadeInRight"  style="justify-content: center;!important"  data-wow-delay="500ms">	
+                        <div class="">
+                            <div class="site-heading text-center mb-0">
+                                <h4 class="title-sub custom_blue">Why Choose </h4>
+                                <h3 class="title-regular custom_blue" >Arcturus Consulting Services</h3>
+                            </div>
+                            <!-- <p style="margin: 10px 50px;">Embrace the confidence that comes with robust, reliable, and secure Oracle ERP, SCM, and HCM Cloud applications through Arcturus Consulting Services. Contact us today to fortify your Oracle Cloud environment with our comprehensive testing solutions, including specialized testing for custom reports, integrations, roles, and quarterly Oracle upgrades, all tailored to meet the unique needs of your business.</p> -->
+                        </div>
+                    </div>
+                    <div class="col-md-12 wow fadeInRight"  data-wow-delay="500ms">
+                        <div class="row services-more">
+                            <div class="col-md-3">
+                                <div class="item  wow fadeInUp"  data-wow-delay="500ms">
+                                    <div class="flip-card" style="height:350px;" >
+                                        <div class="flip-card-inner">
+                                            <div class="flip-card-front">
+                                                <img src="assets/img/acs/best-employee_7904327.png" alt="">
+                                                <h4>Oracle-Certified Testing Professionals</h4>
+                                            </div>
+                                            <div class="flip-card-back">
+                                                <p>Our team comprises seasoned testing professionals certified in Oracle Cloud environments, ensuring expertise in the intricacies of Oracle ERP, SCM, and HCM Cloud solutions.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="item  wow fadeInUp"  data-wow-delay="500ms">
+                                    <div class="flip-card" style="height:350px;" >
+                                        <div class="flip-card-inner">
+                                            <div class="flip-card-front">
+                                                <img src="assets/img/acs/solution.png" alt="">
+                                                <h4>Tailored Testing Solutions</h4>
+                                            </div>
+                                            <div class="flip-card-back">
+                                                <p>We understand the unique nature of every Oracle Cloud deployment. Our TaaS offering is customized to align precisely with your specific Oracle ERP, SCM, and HCM Cloud requirements.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="item  wow fadeInUp"  data-wow-delay="500ms">
+                                    <div class="flip-card" style="height:350px;" >
+                                        <div class="flip-card-inner">
+                                            <div class="flip-card-front">
+                                                <img src="assets/img/acs/cost.png" alt="">
+                                                <h4>Cost-Efficient Testing</h4>
+                                            </div>
+                                            <div class="flip-card-back">
+                                                <p>Streamline testing processes, reduce costs, and achieve faster releases through automation and efficient testing methodologies.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="item  wow fadeInUp"  data-wow-delay="500ms">
+                                    <div class="flip-card" style="height:350px;" >
+                                        <div class="flip-card-inner">
+                                            <div class="flip-card-front">
+                                                <img src="assets/img/acs/security.png" alt="">
+                                                <h4>Risk Mitigation for Oracle Cloud Environments</h4>
+                                            </div>
+                                            <div class="flip-card-back">
+                                                <p>Proactively address system failures, security breaches, and performance issues with our specialized testing approach, minimizing risks to your operations.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                <!-- <div class="card border-0 p-3 mb-3" style="    box-shadow: 0 0 25px rgb(0 0 0 / 8%); height:200px">
+                                    <h4>Risk Mitigation for Oracle Cloud Environments</h4>
+                                    <p>Proactively address system failures, security breaches, and performance issues with our specialized testing approach, minimizing risks to your operations.</p>
+                                </div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Services Details Area -->
+
+      
+    <!-- Footer Detail -->
+     <!-- Start Footer 
+    ============================================= -->
+
+  
+
+    <footer class="bg-dark text-light">
+        <div class="container">
+            <div class="f-items pt-4 pb-4">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="f-item about">
+                            <!-- <img src="assets/img/logo-white.png" class="mb-4" alt="Logo"> -->
+                            <img src="https://www.arctrs.com/assets/img/logo-white.png" class="mb-4" alt="Logo">
+
+                            <h4 class="widget-title">Newsletters</h4>
+                            <p>
+                              Subscribe to our Updates
+                            </p>
+    <form id="subscribe-news">
+    <input type="email" placeholder="Your Email" class="form-control" name="email" id="emailid">
+    <button type="button" id="subscribe-btn" onclick="Sendnewsletter(event)">
+        <i class="arrow_right"></i> 
+    </button>
+
+   <div id="email-validation" class="text-danger mt-2" style="display:none;">Email is invalid</div>
+ </form>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="row">
+                   
+                            <div class="col-6">
+                                <div class="f-item link">
+                                    <h4 class="widget-title">Quick Link</h4>
+                                    <ul>
+                                        <li>
+                                            <a href="/"><i class="fas fa-angle-right"></i> Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="about"><i class="fas fa-angle-right"></i> About Us</a>
+                                        </li>
+                                        <li>
+                                            <a href="oracle"><i class="fas fa-angle-right"></i> Services</a>
+                                        </li>
+                                        <li>
+                                            <a href="blog"><i class="fas fa-angle-right"></i> Blogs</a>
+                                        </li>
+<li>
+                                         <a href="privacy_policy"><i class="fas fa-angle-right"></i> Privacy Policy</a>
+                                     </li>                                  
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="f-item link">
+                                    <h4 class="widget-title">Community</h4>
+                                    <ul>
+                                        <li>
+                                            <a href="career"><i class="fas fa-angle-right"></i> Careers</a>
+                                        </li>
+                                        <li>
+                                            <a href="contact"><i class="fas fa-angle-right"></i> Contact Us</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 item">
+                        <div class="f-item contact-widget">
+                            <h4 class="widget-title">Contact Info</h4>
+                            <div class="address">
+                                <ul>
+                                    <!-- <li>
+                                        <div class="icon">
+                                            <i class="fas fa-home"></i>
+                                        </div>
+                                        <div class="content">
+                                            <strong>Address:</strong>
+                                            <p>
+                                            <strong>CANADA</strong> &bull;  8 Natronia Trail, Brampton ON L6P 3L9 <br>
+                                            &bull;  55 Village Centre Place, Suite 200, Mississauga, ON L4Z1V9<br>
+                                            <strong>USA</strong> &bull; 30 N Gould St Ste R, Sheridan, WY 82801
+                                        </p>
+                                        </div>
+                                    </li> -->
+                                    <li>
+                                        <div class="icon">
+                                            <i class="fas fa-envelope"></i>
+                                        </div>
+                                        <div class="content">
+                                            <strong>Email:</strong>
+                                            <!-- <a href="mailto:info@arcturusconsultingservices.com">info@arcturusconsultingservices.com</a> -->
+                                            <a class="" href="mailto:sales@arctrs.com">
+                                    sales@arctrs.com                                    </a>
+
+                                   </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon">
+                                            <i class="fas fa-phone"></i>
+                                        </div>
+                                        <div class="content">
+                                            <strong>Phone:</strong>
+                                            
+                                            <a class="" href="tel://16138522801">
+                                           16138522801                                            <!-- <a href="tel:6138522801">+1 613-852-2801</a> -->
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon">
+                                           <!-- <a href="https://www.linkedin.com/company/arcturus-consulting-services/"> <i class="fab fa-linkedin-in"></i></a> -->
+
+                                           <a href="https://www.linkedin.com/company/arcturus-consulting-services/" class="pin" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                        </div>
+                                        <div class="icon">
+                                            <!-- <a href="https://www.instagram.com/arcturus_consulting_services/?hl=en">
+                                            <i class="fab fa-instagram"> </i>  -->
+                                            </a>
+                                            <a href="https://www.instagram.com/arcturus_consulting_services/?hl=en" target="_blank" class="pin">  <i class="fab fa-instagram"> </i></a>
+                                           
+                                        </div>
+                                        <div class="icon">
+                                            <!-- <a href="https://www.facebook.com/profile.php?id=61556302389519">
+                                            <i class="fab fa-facebook-f"></i>
+                                            </a> -->
+                                            <a href="https://www.facebook.com/people/Arcturus-Consulting-Services/61556302389519/" class="pin" target="_blank"> <i class="fab fa-facebook-f"></i></a>
+
+                                            
+                                            
+                                        </div>
+                                        <div class="icon">
+                                            <!-- <a href="https://twitter.com/arcturusconserv">
+                                                 <i class="fab fa-twitter"></i>
+                                            </a> -->
+                                            <a href="https://twitter.com/arcturusconserv"  class="pin" target="_blank"><i class="fa-brands fa-x-twitter social_pinterest"></i></a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Start Footer Bottom -->
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>&copy; Copyright 2021. All Rights Reserved by Arcturus Consulting Services</p>
+                    </div>
+                    <!-- <div class="col-lg-6 text-end link">
+                        <ul>
+                            <li>
+                                <a href="about-us.html">Terms</a>
+                            </li>
+                            <li>
+                                <a href="about-us.html">Privacy</a>
+                            </li>
+                            <li>
+                                <a href="contact.html">Support</a>
+                            </li>
+                        </ul>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+
+        <!-- End Footer Bottom -->
+    </footer>
+    <!-- End Footer -->
+    
+    <!-- jQuery Frameworks
+    ============================================= -->
+    
+    <script src="https://www.arctrs.com/assets/js/jquery-3.6.0.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/popper.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/jquery.appear.js"></script>
+    <script src="https://www.arctrs.com/assets/js/jquery.easing.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/modernizr.custom.13711.js"></script>
+    <script src="https://www.arctrs.com/assets/js/owl.carousel.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/wow.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/progress-bar.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/isotope.pkgd.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/count-to.js"></script>
+    <script src="https://www.arctrs.com/assets/js/YTPlayer.min.js"></script>
+    <script src="https://www.arctrs.com/assets/js/validnavs.js"></script>
+    <script src="https://www.arctrs.com/assets/js/main.js"></script>
+    <!-- aos -->
+    <script src="https://www.arctrs.com/https:/unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+    AOS.init();
+    </script>
+<!-- fixed form -->
+<script>
+window.onscroll = function() {
+    var minthreshold = 300;
+    var maxthreshold = 2055;
+    var scrollPosition = window.scrollY;
+    var screenWidth = window.innerWidth;
+    var courseInfoElements = document.getElementById('Course_form');
+
+    console.log(scrollPosition);
+    // console.log(screenWidth);
+    if (screenWidth >= 768) { // Check for medium screen width (767px)
+        if (scrollPosition < minthreshold) {
+            console.log('absolute')
+            courseInfoElements.style.position = 'absolute';
+            courseInfoElements.style.top = '100px';
+            courseInfoElements.style.bottom = 'auto';
+           
+        } else if(scrollPosition > minthreshold &&  scrollPosition < maxthreshold  ){
+            console.log('fixed')
+            courseInfoElements.style.position = 'fixed';
+        }
+         else if(scrollPosition > maxthreshold){
+            console.log('absolute')
+            courseInfoElements.style.position = 'absolute';
+            courseInfoElements.style.bottom = '100px';
+            courseInfoElements.style.top = 'auto';
+        }
+    } 
+    // else { // For small screen width
+    //      courseInfoElements.style.position = 'sticky';
+    //         // courseInfoElements.style.bottom = '25px';
+    //         // courseInfoElements.style.top = 'auto';
+    // }
+};
+
+function Sendnewsletter(event) {
+        event.preventDefault();
+        var formData = new FormData($('#subscribe-news')[0]);
+        console.log(formData);
+
+        var email = $('#emailid').val();
+        
+        function isValidEmail(email) {
+            var regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;   
+            return regex.test(email);
+        }
+
+        // Hide the error message initially
+        $('#email-validation').hide();
+
+        if (!isValidEmail(email)) {
+            $('#email-validation').show(); 
+            return;
+        }
+
+        $.ajax({
+            url: 'https://www.arctrs.com/Subscribe', // API endpoint URL
+            method: 'POST',
+            data: formData,
+            contentType: false,
+            processData: false,
+            dataType: 'json', // Ensure the response is parsed as JSON
+            success: function(response) {
+                console.log(response);
+                if (response.status == 400) {
+                    toastr.success(response.message); // Display error message if status is 400
+                } else if (response.status == 201) {
+                    toastr.success('Thank you for subscribing to our newsletter! You are now connected to the latest updates, news, and offers from Arcturus Consulting Services Inc. Expect exciting content delivered straight to your inbox. Stay tuned for exclusive promotions and valuable insights. Welcome aboard!');
+                    // Close the modal after a successful subscription
+                    $('#email_popup_id').modal('hide');
+                } else {
+                    toastr.error(response.message); // Handle any other statuses
+                }
+            },
+            error: function(xhr, status, error) {
+                // Set error message to session storage
+                sessionStorage.setItem('careerFormErrorMessage', 'Unsubscribe: ' + error);
+                console.error('API call error:', error);
+                toastr.error('Failed to subscribe. Please try again later.');
+                // Optionally, reload the page on error
+                // location.reload();
+            }
+        });
+    }
+
+
+
+
+
+
+    // function Sendemail(event) {
+    //     event.preventDefault();
+    //     var formData = new FormData($('#subscribe-form')[0]);
+    //     console.log( formData);
+
+    //     var email = $('#email_id').val();
+    //     function isValidEmail(email) {
+    //     var regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;   
+    //     return regex.test(email);
+    //     }
+
+    //     // Hide the error message initially
+    //     $('#email-valid').hide();
+
+    //     if (!isValidEmail(email)) {
+    //         $('#email-valid').show(); // Show the error message near the input box
+    //         return;
+    //     }
+    //     $.ajax({
+    //         url: 'https://www.arctrs.com/Subscribe', // API endpoint URL
+    //         method: 'POST',
+    //         data: formData,
+    //         contentType: false,
+    //         processData: false,
+    //         success: function(response) {
+    //             response  = JSON.parse(response);
+    //             // Set success message to session storage
+    //             console.log( response);
+    //             if(response.status == 400){
+    //                 toastr.error(response.message)
+    //             }
+    //             if(response.status == 200){
+    //                 toastr.success('Thank you for subscribing to our newsletter! You are now connected to the latest updates, news, and offers from Arcturus Consulting Services Inc. Expect exciting content delivered straight to your inbox. Stay tuned for exclusive promotions and valuable insights. Welcome aboard!');
+                  
+    //             //   location.reload();
+    //             }
+                
+    //         },
+    //         error: function(xhr, status, error) {
+    //             // Set error message to session storage
+    //             sessionStorage.setItem('careerFormErrorMessage', 'Unsubscribe: ' + error);
+    //             console.error('API call error:', error);
+    //             // location.reload();
+    //         }
+    //     });
+    // }
+
+    // Check for success or error message in session storage and display them
+    $(document).ready(function() {
+        var successMessage = sessionStorage.getItem('careerFormSuccessMessage');
+        var errorMessage = sessionStorage.getItem('careerFormErrorMessage');
+        if (successMessage) {
+            toastr.success(successMessage);
+            sessionStorage.removeItem('careerFormSuccessMessage');
+        }
+        if (errorMessage) {
+            toastr.error(errorMessage);
+            sessionStorage.removeItem('careerFormErrorMessage');
+        }
+    });
+
+
+
+</script>
+</body>
+</html>
+    <!-- Script Load -->
+</body>
